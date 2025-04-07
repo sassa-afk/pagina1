@@ -201,7 +201,9 @@ background: linear-gradient(270deg,
   border-radius: 0;
    cursor: pointer;
 }
-
+.op:hover{
+  background-color: blueviolet ;
+}
 
 .opEscondido{
   display:  none;
